@@ -1,0 +1,2 @@
+﻿源.obj : error LNK2019: 无法解析的外部符号 "int __cdecl RandInt(int,int)" (?RandInt@@YAHHH@Z)，函数 "void __cdecl RandomPermutation1(int)" (?RandomPermutation1@@YAXH@Z) 中引用了该符号
+C:\Users\zjy\Desktop\码图\随机数置换\Debug\随机数置换.exe : fatal error LNK1120: 1 个无法解析的外部命令

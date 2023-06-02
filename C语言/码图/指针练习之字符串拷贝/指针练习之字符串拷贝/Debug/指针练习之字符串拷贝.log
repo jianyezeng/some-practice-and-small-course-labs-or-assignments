@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\zjy\Desktop\码图\指针练习之字符串拷贝\指针练习之字符串拷贝\源.cpp(55,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\zjy\Desktop\码图\指针练习之字符串拷贝\指针练习之字符串拷贝\源.cpp(139,16): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 8 拥有了类型“int *”
+  指针练习之字符串拷贝.vcxproj -> C:\Users\zjy\Desktop\码图\指针练习之字符串拷贝\Debug\指针练习之字符串拷贝.exe
