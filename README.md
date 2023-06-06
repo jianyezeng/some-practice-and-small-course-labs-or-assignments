@@ -3,6 +3,8 @@
 ### 备忘录
 > 在大一上时做的,仅学习了C语言的一些基础语法，基础比较薄弱，因此效果不是很好，后续有空的话会进行改进（毕竟是从开始学习编程以来接触的第一个小项目）
 
+![示例](https://github.com/jianyezeng/some-practice-and-small-course-labs-or-assignments/assets/121743612/496e2103-6b6c-488a-aa60-b7b4ff9e754b)
+
 实现功能
 - 添加事件
 - 删除事件
