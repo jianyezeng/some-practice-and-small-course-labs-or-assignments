@@ -1,4 +1,0 @@
-﻿  源1.cpp
-C:\Users\zjy\Desktop\码图\实验品\实验品\源1.cpp(176,16): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-C:\Users\zjy\Desktop\码图\实验品\实验品\源1.cpp(245,38): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
-  实验品.vcxproj -> C:\Users\zjy\Desktop\码图\实验品\Debug\实验品.exe
